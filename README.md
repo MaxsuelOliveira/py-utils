@@ -1,45 +1,34 @@
-# 🐍 py-utils
+# py-utils
 
-**py-utils** é uma coleção de scripts e utilitários Python projetados para facilitar tarefas do dia a dia de qualquer desenvolvedor. Seja para automações simples, manipulação de arquivos, análises rápidas ou integração com ferramentas, o objetivo é entregar soluções práticas, reutilizáveis e que economizam tempo.
+![stack](https://img.shields.io/badge/stack-Python-1f6feb) ![focus](https://img.shields.io/badge/focus-Python-0f766e) ![status](https://img.shields.io/badge/status-ativo-2ea44f)
 
-## 🚀 Objetivo
+Biblioteca Python com utilitários para automação.
 
-Reunir uma caixa de ferramentas Python com scripts prontos para uso que agilizem rotinas comuns no desenvolvimento de software.
+## Visao geral
 
-## 📦 Funcionalidades (exemplos)
+Projeto com foco em automacao, biblioteca usando Python. Ele destaca automation, python, utilities de forma direta para facilitar a leitura de visitantes e recrutadores.
 
-- Manipulação de arquivos e diretórios
-- Scripts de automação de tarefas repetitivas
+## Stack
 
-## 📦 Novas Funcionalidades (em desenvolvimento)
+- Python
 
-- Coletar e processar dados (JSON, CSV, TXT, etc.)
-- Ferramentas para desenvolvedores web (ex: debug, deploy, etc.)
-- Integrações com APIs e sistemas externos
+## Destaques
 
-## 📁 Estrutura básica
+- Biblioteca Python com utilitários para automação.
+- Tipo principal: automacao, biblioteca.
+- Temas centrais: automation, python, utilities.
 
-```cmd
-py-utils/
-├── scripts/
-│   ├── add_host_entry.py
-│   ├── creating_vhost_localhost_windows.py
-│   ├── rename_camel_case
-│   ├── rename_folders_with_pattern
-├── utils/
-│   └── funcoes_comuns.py
-├── README.md
-```
+## Como executar
 
-## 🛠️ Requisitos
+- python -m venv .venv
+- .venv\Scripts\activate
+- pip install -r requirements.txt
 
-- Python 3.7+
-- Instalar dependências (ainda não é necessário):  
+## Status
 
-  ```bash
-  pip install -r requirements.txt
-  ```
+- Estado atual: ativo.
+- Repositorio pronto para revisao tecnica e navegacao rapida.
 
-## 🤝 Contribuindo
+## Contato
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com novos scripts ou melhorias.
+Se quiser conversar sobre este projeto, fale comigo no [LinkedIn](https://www.linkedin.com/in/maxsuelOliveiradev/) ou veja mais projetos no [GitHub](https://github.com/MaxsuelOliveira).
